@@ -5,3 +5,5 @@
 # Exercise 5
 changes to faith
 
+# Exercise 6
+Today is gloomy
