@@ -6,4 +6,4 @@
 changes to faith
 
 # Exercise 6
-Today is gloomy
+Today is gloomy. Today is Sunday!
